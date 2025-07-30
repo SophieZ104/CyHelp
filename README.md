@@ -2,6 +2,3 @@
 (BreachBot: 2hr 40 min)
 (Caesar's Cipher: 2hr 45 min)
 (Cipher Usability: 1hr 20 min)
-(Personal Website: 4hr)
-(Personality Quiz: 3hr)
-(Activist Toolkit: 4hr 45 min)
